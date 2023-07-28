@@ -97,6 +97,7 @@ public class Calculator {
     public void setCpuModel(String model) {
         //Aici se va face verificare daca modelul de Cpu este compatibil cu motherbouard, daca nu este compatibil nu se va seta Cpu-ul
         this.cpu.setModel(model);
+        //Comentariu calculator
     }
 }
 

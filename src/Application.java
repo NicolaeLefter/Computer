@@ -45,6 +45,7 @@ public class Application {
        computerService.reparareCalculator(calculator1);
        computerService.reparareCalculator(calculator2);
 // adfsdfsdfsdf
+// Comentariu doi
     }
 
 }
