@@ -14,7 +14,7 @@ public class Application {
         Mouse mouse1 = new Mouse("Fara fir", 2020);
         Keybouard keybouard1 = new Keybouard("USA", 66);
         Screen screen1 = new Screen(16);
-     
+
         MotherBoard motherBoard2 = new MotherBoard();
         motherBoard2.setPrice(100);
         motherBoard2.setProducator("HP");
@@ -44,7 +44,7 @@ public class Application {
        computerService.afisareDateCalculator(calculator2);
        computerService.reparareCalculator(calculator1);
        computerService.reparareCalculator(calculator2);
-
+// adfsdfsdfsdf
     }
 
 }
